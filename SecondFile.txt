@@ -1,2 +1,6 @@
 This is New File
+<<<<<<< HEAD
 Unknown Changes
+=======
+Sprint Changes done.
+>>>>>>> origin/Sprint-1
